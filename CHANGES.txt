@@ -1,0 +1,3 @@
+v0.1.1, 7 July 2012 -- Minor changes to project structure and text.
+
+v0.1.0, 7 July 2012 -- Initial release.
