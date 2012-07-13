@@ -44,7 +44,7 @@ therefore, the QuantumRandom class fetches 16 KB at a time to serve small
 requests, minimizing requests to the server. Larger requests are fetched
 dynamically.
 
-As of version 0.1.0, these objects are *not* thread-safe.
+As of version 0.1, these objects are *not* thread-safe.
 
 Credits
 =======
